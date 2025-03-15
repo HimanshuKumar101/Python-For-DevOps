@@ -61,3 +61,14 @@ age = int(input("enter your age: "))
 
 print("Your age is",age)
   
+marks = input("marks: ")
+
+ #single line if / Ternary operator
+
+# <var> = <val1> if <condition> else<val2>
+
+
+#<stt1> if <condition> else <stt2>
+
+#clever if / Ternary Operator
+#<var> = (false_val, true_val)[<condition>]
